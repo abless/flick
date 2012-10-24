@@ -1,0 +1,6 @@
+Things that will be implemented in later versions of Flick:
+
+	- process management (user level)
+	- various hardware and software driver
+	- system call support
+	- file system

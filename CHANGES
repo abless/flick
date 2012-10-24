@@ -1,0 +1,12 @@
+0.01:	 first release, Operating System has no name yet
+
+0.02:	 Operating System is named "Flick"
+	 no more problems with Bochs PC Emulator
+	 Flick now has keyboard driver support
+	 Virtual memory (Paging) support added
+	 Memory manager for allocating virtual memory added
+
+0.04:	 keyboard driver improved
+	 support for virtual consoles
+	 support for kernel process management
+	 several bug-fixes

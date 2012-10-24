@@ -1,0 +1,10 @@
+	Installation notes for Flick 0.0x
+
+Installation of Flick is very simple, a "make" should compile the
+sources without problems and create the file 'flick.img'. This
+kernel _must_ be loaded by GRUB (http://www. gnu.org/software/grub/).
+The easiest way to run Flick is to copy the kernel onto a floppy disk ("make install").
+
+If you have problems with the installation, please write a bug report to
+Alexander.Blessing@epost.de.
+
