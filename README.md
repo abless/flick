@@ -1,6 +1,5 @@
-Last updated: around 2003
-
-	Flick kernel release 0.04
+This is a toy operating system that I had been working on when I was about 13 years old. 
+I decided to move the code from Sourceforge to Github. The original homepage was http://flick.sourceforge.net.
 
 WHAT IS FLICK?
 
@@ -25,8 +24,3 @@ HOW CAN I INSTALL FLICK?
 
  Read the INSTALL file which will contain the installation notes
  Note that Flick can only be run using the bootloader GRUB
-
-CONTACT INFORMATION
-
- Main developer: Alexander Blessing
- Contact email: Alexander.Blessing@epost.de
